@@ -1,0 +1,3 @@
+string operation_name
+float32 number
+bool is_multiplication
